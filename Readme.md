@@ -1,4 +1,4 @@
-## Add your name her
+## Add your name here
 * Amartya Mondal
 * Akash Das
 * Pranshu Kapri
